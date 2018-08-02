@@ -14,7 +14,7 @@ namespace CSharpStructConsoleApp
         Console.WriteLine("This brief example shows a struct in action! Thank you for demoing my application!");
         Console.WriteLine();
 
-        Number number = new Number() { Amount = 3.4444m };
+        Number number = new Number() { Amount = 0.112358132134m };
         Console.WriteLine("Here is our decimal being housed inside of our \"Number\" struct: " + number.Amount);
         Console.WriteLine("Press enter to exit!");
         Console.ReadLine();
