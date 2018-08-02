@@ -10,6 +10,7 @@ namespace CSharpStructConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
